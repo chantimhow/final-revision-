@@ -18,10 +18,10 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2024 SEPT Q2C.cpp">
+    <ClCompile Include="SEPT 2024 Q2C.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2024 SEPT Q3.cpp">
+    <ClCompile Include="SEPT 2024 Q3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SEPT 2024 Q4.cpp">
@@ -39,7 +39,10 @@
     <ClCompile Include="MAY 2024 Q2C.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2024 MAY Q3.cpp">
+    <ClCompile Include="MAY 2024 Q3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MAY 2024 Q4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -54,6 +57,9 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="list.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="details.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
