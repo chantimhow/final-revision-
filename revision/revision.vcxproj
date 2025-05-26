@@ -130,6 +130,7 @@
     <ClCompile Include="MAY 2024 Q5.cpp" />
     <ClCompile Include="SEPT 2023 Q1D.cpp" />
     <ClCompile Include="SEPT 2023 Q2C.cpp" />
+    <ClCompile Include="SEPT 2023 Q3.cpp" />
     <ClCompile Include="SEPT 2024 Q2C.cpp" />
     <ClCompile Include="SEPT 2024 Q3.cpp" />
     <ClCompile Include="MAY 2024 Q1D.cpp" />

@@ -54,6 +54,9 @@
     <ClCompile Include="SEPT 2023 Q2C.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SEPT 2023 Q3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="BookGenre.txt">
