@@ -1,0 +1,19 @@
+
+
+<1. Fairy Tale>
+Snow White
+Pinocchio
+Quantity: 2
+
+<2. Autobiography>
+Becoming
+Quantity: 1
+
+<3. Self Help>
+Atomic Habits
+Quantity: 1
+
+<4. Romance>
+Love Destiny
+Quantity: 1
+
