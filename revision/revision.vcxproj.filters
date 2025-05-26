@@ -45,6 +45,9 @@
     <ClCompile Include="MAY 2024 Q4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MAY 2024 Q5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="BookGenre.txt">
@@ -60,6 +63,9 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="details.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="recipe.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>

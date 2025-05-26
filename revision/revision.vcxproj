@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MAY 2024 Q5.cpp" />
     <ClCompile Include="SEPT 2024 Q2C.cpp" />
     <ClCompile Include="SEPT 2024 Q3.cpp" />
     <ClCompile Include="MAY 2024 Q1D.cpp" />
@@ -143,6 +144,7 @@
     <Text Include="foodinfo.txt" />
     <Text Include="list.txt" />
     <Text Include="details.txt" />
+    <Text Include="recipe.txt" />
     <Text Include="tumblerDetails.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
