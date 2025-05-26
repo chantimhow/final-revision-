@@ -15,6 +15,7 @@
 //	double grossM[] = { 20.6,845.6,440.1,64.1,951.5 };
 //	
 //	cout << "Best selling movie in 2023 is " << movies[bestselling(movies, grossM)];
+//	cout << endl;
 //	sortmovie(movies,releasedate,grossM);
 //	printList(movies, releasedate, grossM);
 //
@@ -69,6 +70,39 @@
 //}
 //
 //void sortmovie(string name[], string date[], double totalgross[]) {
+//	string datemonth[5];
+//	int sortdates[5];
 //	
+//	for (int i = 0; i < 5; i++) {
+//		int index = 1;
+//
+//		while (date[i][date[i].find('/') + index] != '/') ++index;
+//			
+//		
+//
+//		datemonth[i] = date[i].substr(date[i].find('/')+1, index-1);
+//	}
+//	for (int i = 0; i < 5; i++) {
+//		sortdates[i] = stoi(datemonth[i]);
+//	}
 //	
+//	for (int i = 0; i < 4; i++) {
+//		for (int j = 0; j < 4 - i; j++) {
+//			if ((sortdates[j]) < sortdates[j + 1]) {
+//				swap(sortdates[j], sortdates[j + 1]);
+//				date[j].swap(date[j + 1]);
+//				name[j].swap(name[j + 1]);
+//				swap(totalgross[j], totalgross[j + 1]);
+//			}
+//		}
+//
+//	}
+//	for (int i = 0; i < 5; i++) {
+//		cout << left;
+//		cout << setw(2) << i + 1 << ". ";
+//		cout << setw(40) << name[i];
+//		cout << setw(12) << date[i];
+//		cout << endl;
+//	}
+//
 //}
