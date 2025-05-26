@@ -12,6 +12,7 @@ struct recipe {
 };
 void morethanfourservings(recipe cook[], int no);
 void readrecipe(recipe cook[], int& no);
+void selectIngred(recipe cook[], int no);
 
 
 int main() {
@@ -19,6 +20,7 @@ int main() {
 	recipe cook[10];
 	readrecipe(cook, no);
 	morethanfourservings(cook, no);
+	selectIngred(cook,no);
 };
 void readrecipe(recipe cook[], int& no) {
 	ifstream infile;
@@ -51,5 +53,23 @@ void morethanfourservings(recipe cook[], int no) {
 			cout << "Servings: " << cook[i].servings << endl << endl;
 
 		}
+	}
+}
+
+void selectIngred(recipe cook[], int no) {
+	string userinput;
+	int foodnumber = 0;
+	bool found = false;
+	cout << "Ingredient's keyword: " << userinput;
+	getline(cin, userinput);
+	for (int i = 0; i < no; i++) {
+		if (cook[i].ingredient.find(userinput) != string::npos){
+			cout << ++foodnumber << ". " << cook[i].name;
+			found = true;
+			cout << endl;
+;		}
+	}
+	if (!found) {
+		cout << "No recipes found containing the keyword provided!";
 	}
 }
