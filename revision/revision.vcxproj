@@ -127,11 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2024 sept  q2c.cpp" />
+    <ClCompile Include="2024 SEPT Q2C.cpp" />
     <ClCompile Include="2024 SEPT Q3.cpp" />
     <ClCompile Include="MAY 2024 Q1D.cpp" />
     <ClCompile Include="MAY 2024 Q2C.cpp" />
-    <ClCompile Include="sept 2024 q4.cpp" />
+    <ClCompile Include="2024 MAY Q3.cpp" />
+    <ClCompile Include="SEPT 2024 Q4.cpp" />
     <ClCompile Include="SEPT 2024 Q5.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="testing.cpp" />
@@ -139,6 +140,7 @@
   <ItemGroup>
     <Text Include="BookGenre.txt" />
     <Text Include="foodinfo.txt" />
+    <Text Include="list.txt" />
     <Text Include="tumblerDetails.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
