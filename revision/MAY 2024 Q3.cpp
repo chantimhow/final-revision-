@@ -32,28 +32,28 @@
 //	return index;
 //}
 //
-//void sortmovie(string name[], string date[], double totalgross[]) {
-//	double tempgross;
-//	string tempdate, tempname;
-//	for (int i = 0; i < 4;i++) {
-//		for (int j = 0; j < 4 - i; j++) {
-//			if (totalgross[j] > totalgross[j + 1]) {
-//				tempgross = totalgross[j];
-//				totalgross[j] = totalgross[j + 1];
-//				totalgross[j + 1] = tempgross;
-//
-//				tempname = name[j];
-//				name[j] = name[j + 1];
-//				name[j + 1] = tempname;
-//
-//				tempdate = date[j];
-//				date[j] = date[j + 1];
-//				date[j + 1] = tempdate;
-//			}
-//		}
-//	}
-//
-//}
+////void sortmovie(string name[], string date[], double totalgross[]) {
+////	double tempgross;
+////	string tempdate, tempname;
+////	for (int i = 0; i < 4;i++) {
+////		for (int j = 0; j < 4 - i; j++) {
+////			if (totalgross[j] > totalgross[j + 1]) {
+////				tempgross = totalgross[j];
+////				totalgross[j] = totalgross[j + 1];
+////				totalgross[j + 1] = tempgross;
+////
+////				tempname = name[j];
+////				name[j] = name[j + 1];
+////				name[j + 1] = tempname;
+////
+////				tempdate = date[j];
+////				date[j] = date[j + 1];
+////				date[j + 1] = tempdate;
+////			}
+////		}
+////	}
+////
+////}
 //
 //void printList(string name[], string date[], double totalgross[]) {
 //	ofstream outfile;
@@ -66,4 +66,9 @@
 //			outfile << endl <<  setw(60) << setfill(' ') << left << name[i] << setw(20) << setfill(' ') << left << date[i] << setw(20) << setfill(' ') << left << setprecision(1) << fixed << totalgross[i];
 //		}
 //	}
+//}
+//
+//void sortmovie(string name[], string date[], double totalgross[]) {
+//	
+//	
 //}
