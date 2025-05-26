@@ -1,38 +1,20 @@
-tumbler
-500
-tumbler
-500
-water tumbler
-5000
-tumbler
-500
-water tumbler
-5000
-penis  tumbler
-10000
-tumbler
-500
-water tumbler
-5000
-lava tumbler
-10000
-tumbler
-500
-tumbler
-500
-lava tumbler
-5000
-water tumbler
-10000
-water tumbler
-5000
-tumbler
-500
-water tumbler
-500
-tumbler
-5000
-tumbler
-500
-tumbler
-500
+Aglio Olio
+Spaghetti, Olive Oil, Garlic, Red Pepper
+20
+4
+Pancake
+Flour, Baking Powder, Sugar, Eggs, Salt, Milk, Butter
+20
+8
+Miso Soup
+Water, Dashi Granules, Miso Paste, Tofu, Green Onions
+15
+4
+Chinese Tea Leaf Eggs
+Water, Black Tea Leaves, Soy Sauce, Herbs, Salt, Eggs
+680
+8
+Mango Lassi
+Mango, Yogurt, Heavy Cream, Cold Milk, sugar, cardamom
+10
+2

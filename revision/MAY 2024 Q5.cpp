@@ -15,15 +15,15 @@ void readrecipe(recipe cook[], int& no);
 
 
 int main() {
-	int no;
+	int no = 0;
 	recipe cook[10];
 	readrecipe(cook, no);
 	morethanfourservings(cook, no);
 };
 void readrecipe(recipe cook[], int& no) {
 	ifstream infile;
-	;
 	infile.open("recipe.txt");
+	
 	if (infile.is_open()) {
 		while (!infile.eof()) {
 			getline(infile, cook[no].name);
