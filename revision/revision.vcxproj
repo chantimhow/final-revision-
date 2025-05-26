@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="2024 sept  q2c.cpp" />
     <ClCompile Include="2024 SEPT Q3.cpp" />
+    <ClCompile Include="MAY 2024 Q1D.cpp" />
+    <ClCompile Include="MAY 2024 Q2C.cpp" />
     <ClCompile Include="sept 2024 q4.cpp" />
     <ClCompile Include="SEPT 2024 Q5.cpp" />
     <ClCompile Include="Source.cpp" />

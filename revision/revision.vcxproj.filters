@@ -33,6 +33,12 @@
     <ClCompile Include="SEPT 2024 Q5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MAY 2024 Q1D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MAY 2024 Q2C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="BookGenre.txt">
